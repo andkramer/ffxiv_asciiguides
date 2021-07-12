@@ -32,25 +32,25 @@ Refer to 3. Material Name Listing to translate these to the Items needed for you
 
 0a. Buy or Gather Required Resources
 0b. Go to Skysteel Manufactory
-1. Buy Skysteel [JobItem] from Denys@Skysteel Manufactory for 80k Gil
-2. Craft 20 Oddly Specific [Insert Your First Item Here] (20x Base Item A + 20x Some Item A)
-3. Trade in 20 ^ + Skysteel [JobItem] => Skysteel [JobItem]+1 
-4. Craft 30 Oddly Specific [Insert Your Second Item Here] (30x Base Item A + 30x Some Item B)
-5. Trade in 30 ^ + Skysteel [JobItem]+1 => Dragonsung [JobItem]
+1. Buy "Skysteel [JobItem]" from Denys@Skysteel Manufactory for 80k Gil
+2. Craft 20 Oddly Specific [Insert Your First Craftable Item Here]
+3. Trade in 20 of those + "Skysteel [JobItem]" => "Skysteel [JobItem] +1" 
+4. Craft 30 Oddly Specific [Insert Your Second Craftable Item Here]
+5. Trade in 30 of those + "Skysteel [JobItem] +1" => "Dragonsung [JobItem]"
 6. Accept the Quest "Ever Skyward" from Nimie@Skysteel Manufactory
-7. Exchange 18x Oddly Specific [Insert Your Third Item Here] with >4000 Collectability for 90 [Job] Gobbiegoo at Denys@Skysteel Manufactory
-8. Hand in Quest "Ever Skyward" for Augmented Dragonsung [JobItem]
+7. Exchange 18x Oddly Specific [Insert Your Third Craftable Item Here] with >4000 Collectability for 90 "[Job] Gobbiegoo" at Denys@Skysteel Manufactory
+8. Hand in Quest "Ever Skyward" for "Augmented Dragonsung [JobItem]"
 9. Accept the Quest "The Tools of Tomorrow" from Nimie@Skysteel Manufactory
-10. Exchange 21x Oddly Specific [Insert Your Fourth Item Here] with >4600 Collectability for 105 Highly Viscous [Job] Gobbiegoo at Denys@Skysteel Manufactory
-11. Hand in Quest "The Tools of Tomorrow" for Skysung [JobItem]
+10. Exchange 21x Oddly Specific [Insert Your Fourth Craftable Item Here] with >4600 Collectability for 105 "Highly Viscous [Job] Gobbiegoo" at Denys@Skysteel Manufactory
+11. Hand in Quest "The Tools of Tomorrow" for "Skysung [JobItem]"
 12. Accept the Quest "The Pinnacle of Possibility" from Emeny@The Firmament
-13. Exchange 60x Oddly Specific [Insert Your Fifth Item Here] with >2500 Collectability for 60 Oddly Delicate [JobItem] Parts at Spanner@The Firmament
-14. Hand in Quest "The Pinnacle of Possibility" for Skybuilders' [JobItem]
+13. Exchange 60x Oddly Specific [Insert Your Fifth Craftable Item Here] with >2500 Collectability for 60 "Oddly Delicate [JobItem] Parts" at Spanner@The Firmament
+14. Hand in Quest "The Pinnacle of Possibility" for "Skybuilders' [JobItem]"
 
 
 === 3. Material Name Listing === 
 
-|| Job             					                             || Culinarian           || Alchemist || Weaver             || Leatherworker ||
+|| Job                                                           || Culinarian           || Alchemist || Weaver             || Leatherworker ||
 ===============================================================================================================================================
 || Base Item A (Oddly Specific ...)                              || Seeds                 |            | ... Cotton          |                |
 || Base Item B (Oddly Specific ...)                              || Aloe                  |            | ... Fleece          |                |
@@ -63,7 +63,7 @@ Refer to 3. Material Name Listing to translate these to the Items needed for you
 || Approved Item B (Approved Grade 4 Artisanal Skybuilders' ...) || Ice Stalagmite        |            | ... Ice Stalagmite  |                |
 ===============================================================================================================================================
 
-|| Job             					                             || Goldsmith             || Armorer || Blacksmith           || Carpenter          ||
+|| Job                                                           || Goldsmith             || Armorer || Blacksmith           || Carpenter          ||
 =====================================================================================================================================================
 || Base Item A (Oddly Specific ...)                              || ... Uncut Gemstone     |          | ... Iron Sand         | ... Petrified Log   |
 || Base Item B (Oddly Specific ...)                              || ... Silver Ore         |          | ... Coerthan Iron Ore | ... Cedar Log       |
